@@ -76,3 +76,5 @@ danny.add_friend(saber)
 danny.add_friend(aaron)
 
 danny.show_feed
+
+saber.add_friend(aaron)
